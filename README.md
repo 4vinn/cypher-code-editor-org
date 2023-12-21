@@ -10,9 +10,9 @@ Its deployed on railway, check [here](https://github.com/4vinn/cypher-code-edito
 ├── frontend/
 │   ├── public
 │   ├── src
-    |   ├── components
+|   |   ├── components
 │   |   ├── pages
-    |   └── actions.js
+|   |   └── actions.js
 │   ├── package.json
 │   └── package-lock.json
 └── backend/
