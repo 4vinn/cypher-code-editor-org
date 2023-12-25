@@ -1,6 +1,6 @@
-### A real-time code editor made using React.js, Node.js, Express.js, Websocet.io
+### A real-time code editor made using React, Node, Express, socet.io
 
-Changed the repo structure for deployment on Railway. Know more [here](https://github.com/4vinn/cypher-code-editor).
+Changed the repo structure for deployment on Railway. **Know more [here](https://github.com/4vinn/cypher-code-editor).**
 
 >For that, I restructured my repo into a monorepo:
 ```
